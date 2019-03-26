@@ -1,1 +1,2 @@
-This text file is in level 1 directory.
+This amended text file is in level 1 directory.
+ 
